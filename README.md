@@ -4,7 +4,7 @@ Unity 튜토리얼을 따라 만든 슈팅 게임입니다.
 
 ## Donwload
 
-- [`Windows x64 zip file`](./x64/Space&#32;Shooter&#32;x64.zip)
+- [`Windows x64 zip file`](./x64/Space&#32;Shooter&#32;x64.zip?raw=true)
 
 ## Space Shooter Game
 
