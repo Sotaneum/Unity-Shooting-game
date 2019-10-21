@@ -2,6 +2,8 @@
 
 Unity 튜토리얼을 따라 만든 슈팅 게임입니다.
 
+![cover](./cover.png)
+
 ## Download
 
 - [`Windows x64 zip file`](./x64/Space&#32;Shooter&#32;x64.zip?raw=true)
@@ -9,12 +11,16 @@ Unity 튜토리얼을 따라 만든 슈팅 게임입니다.
 ## Space Shooter Game
 
 - 싱글 플레이 전용
+- 조작키
+  - 상하좌우 : 방향키
+  - 공격 : Ctrl or 마우스 클릭
+- 돌을 파괴하거나 피하고 적의 공격을 피하거나 파괴하여 점수를 얻습니다.
 
 ## Used Assests
 
 - [Space Shooter](https://assetstore.unity.com/packages/essentials/tutorial-projects/space-shooter-tutorial-legacy-13866)
 
-## What did you learn?
+## What did you learn
 
 - Unity 작동 원리에 대해서 배웠습니다.
 - `방향키 입력`에 대해 배웠습니다.
